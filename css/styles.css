@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 
+=======
+  HEAD
+>>>>>>> fad4d8da8d833d1af4e85b5fa33f53f03cc500a4
 #left{
     border-radius: 50%;
     width: 150px;
@@ -21,6 +25,10 @@
       padding-top:80px;
       color:white;
 }
+<<<<<<< HEAD
+=======
+
+>>>>>>> fad4d8da8d833d1af4e85b5fa33f53f03cc500a4
 /* The sidepanel menu */
 .sidepanel{
     height: 100%; 
@@ -88,6 +96,30 @@
 .dropdown-container a:hover {
   background-color: #262626;  
 }
- 
+
+.services {
+  text-align: center;
+  
+}
+.row {
+  box-sizing: border-box;
+  width: 80%;
+  padding-left: 300px;
+  line-height: 25px;
+}
+
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 10px;
+  height: 300px; 
+  font-size: 16px;  
+ color: white;
+}
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
   
   
